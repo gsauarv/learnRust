@@ -1,5 +1,5 @@
 fn main()
 {
-	println!("Hello World");
+	println!("Hello World - let's get rusty");
 
 }
